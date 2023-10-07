@@ -47,7 +47,6 @@ GIF created with KAP  GIF tool here
 
 This project proved to be rather difficult. The issue was not the back end code but rather doing the front end code because of the frontend starter code. 
 
-
 ## License
 
 Copyright [2023] [Amelia Trevino]
